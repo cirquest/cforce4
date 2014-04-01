@@ -1,0 +1,4 @@
+app/data/js/bower_components
+dist
+.git
+.DS_Store
