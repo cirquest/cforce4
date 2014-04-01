@@ -1,0 +1,36 @@
+html
+{
+	height: 100%;
+	background-color: #eee;
+}
+
+body
+{
+	height: 100%;
+	background-color: #ddd;
+}
+
+#chapter
+{
+	height: 100%;
+	background-color: #eee;
+}
+
+#pageTemplate
+{
+	height: 100%;
+	background-color: #fff;
+}
+
+#page
+{
+	float:left;
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 19%;
+	background-color: #fff;
+	border:1px solid green;
+	overflow:hidden;
+	position:relative;
+}
