@@ -1,6 +1,6 @@
 cforce3
 =======
 
-bower install
+bower install<br>
 app/build/build.sh
 
